@@ -1,5 +1,4 @@
-##fileformat=VCFv4.1
-##fileDate=20150820
+##fileformat=VCFv4
 ##source=freeBayes v0.9.20
 ##reference=/galaxy/data/hg19/sam_index/hg19.fa
 ##phasing=none
